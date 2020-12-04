@@ -1,0 +1,6 @@
+# ignore file
+./*.pdf
+./*.txt
+./*.zip
+./*.md
+./*.vscode
